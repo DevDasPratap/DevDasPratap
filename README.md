@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pratap Das</h1>
-<h3 align="center">A passionate frontend developer from India [Programmer | Developer | Learner] |</h3>
+<h3 align="center">A passionate developer from India [Programmer | Developer | Learner] |</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=epratap&label=Profile%20views&color=0e75b6&style=flat" alt="epratap" /> </p>
 
