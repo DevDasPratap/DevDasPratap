@@ -1,11 +1,31 @@
 <h1 align="center">Hi 👋, I'm Pratap Das</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from India [Programmer | Developer | Learner] |</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=epratap&label=Profile%20views&color=0e75b6&style=flat" alt="epratap" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=epratap" alt="epratap" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/epratapdas" target="blank"><img src="https://img.shields.io/twitter/follow/epratapdas?logo=twitter&style=for-the-badge" alt="epratapdas" /></a> </p>
+
+- 🔭 I’m currently working on [Security Systems](#)
+
+- 🌱 I’m currently learning **Competitive programming**
+
+- 👯 I’m looking to collaborate on [Trading Software](#)
+
+- 🤝 I’m looking for help with [Traffic Management System](#)
+
+- 👨‍💻 All of my projects are available at [https://epratap.com/](https://epratap.com/)
+
+- 📝 I regulary write articles on [https://epratap.com/](https://epratap.com/)
+
+- 💬 Ask me about **C, CPP, HTML, CSS, WordPress**
+
+- 📫 How to reach me **email@epratap.com**
+
+- 📄 Know about my experiences [https://epratap.com/about-me](https://epratap.com/about-me)
+
+- ⚡ Fun fact **Eat | Sleep | Code | Repeat**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -14,6 +34,8 @@
 <a href="https://twitter.com/epratapdas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="epratapdas" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/epratap" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="epratap" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/epratap" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="epratap" height="30" width="40" /></a>
+<a href="https://codesandbox.com/pratap das" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="pratap das" height="30" width="40" /></a>
+<a href="https://fb.com/iampratapdas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="iampratapdas" height="30" width="40" /></a>
 <a href="https://instagram.com/epratapdas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="epratapdas" height="30" width="40" /></a>
 <a href="https://dribbble.com/epratap" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="epratap" height="30" width="40" /></a>
 <a href="https://www.behance.net/epratap" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="epratap" height="30" width="40" /></a>
