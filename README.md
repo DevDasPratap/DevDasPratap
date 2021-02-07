@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, 👋, I'm Pratap Das Welcome to my GitHub! hugs</h1>
+<h1 align="center">Hi there, 👋, I'm Pratap Das Welcome to my GitHub!</h1>
 <h3 align="center">A Passionate Developer from India [Programmer | Developer | Learner] |</h3>
 
 ### <p align = "center"> <img src="https://github.com/epratap/epratap/blob/main/Hi.gif" width="29px">Hello World!&nbsp;<img src="https://github.com/epratap/epratap/blob/main/Earth.gif" width="24px"></p>
