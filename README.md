@@ -24,7 +24,7 @@ Haldia, West Bengal, India.
 <code>git commit -m "Hello, I'm a Founder at [NedCod](https://nedcod.com/)"</code>
 
 I code for FUN in any language including   
-| C | C++ | JAVA |
+| Python | C/C++ | JAVA | Kotlin |
  | :---: | :---: | :---: | :---: | 
 
 - 🔭 I’m currently working on [Security Systems](#)
