@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, 👋, I'm Pratap Das</h1>
+<h1 align="center">Hi there, 👋, I'm Pratap Das Welcome to my GitHub! hugs</h1>
 <h3 align="center">A Passionate Developer from India [Programmer | Developer | Learner] |</h3>
 
 ### <p align = "center"> <img src="https://github.com/epratap/epratap/blob/main/Hi.gif" width="29px">Hello World!&nbsp;<img src="https://github.com/epratap/epratap/blob/main/Earth.gif" width="24px"></p>
@@ -15,12 +15,17 @@ Haldia, West Bengal, India.
 <p align="center">I’m interested in internship opportunities in Data Science, Software Engineering, Backend Development, and Web Application Development. Please visit my website to know better about me. Send me an email if you think I am a good match for your company. <br>
   
 <h4 align="center">Show some &nbsp;❤️&nbsp; by starring  &nbsp;⭐&nbsp; some of the repositories!</h4>
+<h4 align="center">I am just a learner and will be always,learn too many things.Can't mention them all here. Whatever looks cool to me and can help the society, you will find me.</h4>
 </p>
 
 ### Wanna stalk my website:question::point_right: [Click Here](https://nedcod.com/):sparkles:
 
 ### Who am I:question: 
 <code>git commit -m "Hello, I'm a Founder at [NedCod](https://nedcod.com/)"</code>
+
+I code for FUN in any language including   
+| C | C++ | JAVA |
+ | :---: | :---: | :---: | :---: | 
 
 - 🔭 I’m currently working on [Security Systems](#)
 
@@ -39,6 +44,7 @@ Haldia, West Bengal, India.
 - 📫 How to reach me **email@epratap.com**
 
 - 📄 Know about my experiences [https://epratap.com/about-me](https://epratap.com/about-me)
+- 📝 <a href="https://nedcod.com/resume" target="_blank">My Resume</a>
 
 - ⚡ Fun fact **Eat | Sleep | Code | Repeat**
 
