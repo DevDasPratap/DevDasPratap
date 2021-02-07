@@ -3,7 +3,7 @@
 
 ### <p align = "center"> <img src="https://github.com/epratap/epratap/blob/main/Hi.gif" width="29px">Hello World!&nbsp;<img src="https://github.com/epratap/epratap/blob/main/Earth.gif" width="24px"></p>
 
-<p align = "center"><img src="https://github.com/epratap/epratap/blob/main/hello.gif" width="91px"/></p>
+<p align = "center"><img src="https://github.com/epratap/epratap/blob/main/hello.gif" width="190px"/></p>
 
 I’m <b>[Pratap Das](https://nedcod.com)</b>. I am a <b>Full Stack Developer</b> from India :india:. I am currently <b>3rd year</b> <b>CSE </b> undergraduate at <b>[Government College Of Engineering And Textile Technology, Berhampore](http://gcettb.ac.in/)</b>,
 Haldia, West Bengal, India.
@@ -60,6 +60,14 @@ let skills = {
   OS : [Linux]
 }
 ```
+## Programming Skills :computer:
+``` Programming Language - C, C++```
+
+``` Front End - HTML, CSS, Bootstrap```
+
+``` Back End - Nodejs, Expressjs, PHP ```
+
+``` Database - Mongodb, mySQL```
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
