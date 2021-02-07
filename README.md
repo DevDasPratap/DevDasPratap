@@ -15,7 +15,7 @@
 <h4 align="center">Show some &nbsp;❤️&nbsp; by starring  &nbsp;⭐&nbsp; some of the repositories!</h4>
 </p>
 
-### Wanna stalk my website:question::point_right: [Click Here](https://chandrikadeb7.github.io/):sparkles:
+### Wanna stalk my website:question::point_right: [Click Here](https://nedcod.com/):sparkles:
 
 ### Who am I:question: 
 <code>git commit -m "Hello, I'm a Software Engineering Associate at [Amdocs](https://www.amdocs.com/)"</code>
