@@ -18,7 +18,7 @@
 ### Wanna stalk my website:question::point_right: [Click Here](https://nedcod.com/):sparkles:
 
 ### Who am I:question: 
-<code>git commit -m "Hello, I'm a Software Engineering Associate at [NedCod](https://nedcod.com/)"</code>
+<code>git commit -m "Hello, I'm a Founder at [NedCod](https://nedcod.com/)"</code>
 
 - 🔭 I’m currently working on [Security Systems](#)
 
