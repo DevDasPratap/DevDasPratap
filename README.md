@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Pratap Das</h1>
-<h3 align="center">A passionate developer from India [Programmer | Developer | Learner] |</h3>
+<h1 align="center">Hi there, 👋, I'm Pratap Das</h1>
+<h3 align="center">A Passionate Developer from India [Programmer | Developer | Learner] |</h3>
 
 
 
