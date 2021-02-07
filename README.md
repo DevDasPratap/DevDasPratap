@@ -1,12 +1,12 @@
 <h1 align="center">Hi there, 👋, I'm Pratap Das</h1>
 <h3 align="center">A Passionate Developer from India [Programmer | Developer | Learner] |</h3>
 
-### <img src="https://github.com/epratap/epratap/blob/main/Hi.gif" width="29px">Hello World!&nbsp;<img src="https://github.com/epratap/epratap/blob/main/Earth.gif" width="24px">
+### <img align="center" src="https://github.com/epratap/epratap/blob/main/Hi.gif" width="29px">Hello World!&nbsp;<img src="https://github.com/epratap/epratap/blob/main/Earth.gif" width="24px">
 
 <p align = "center"><img src="https://github.com/epratap/epratap/blob/main/code.gif"/></p>
 
 
-<p align="center">Hey there, fellow <𝚌𝚘𝚍𝚎𝚛𝚜/> <img src="https://github.com/epratap/epratap/blob/main/Hi.gif" width="20px">. It is nice to meet you. I am just a 16 years old kid studying at Rajuk Uttara Model College. But the cool thing about me is that "Programming is my life". I started my programming journey when I was 12 years old. Since then, I have worked on tons of projects.</a>
+<p align="center">Hey there, fellow <𝚌𝚘𝚍𝚎𝚛𝚜/> <img src="https://github.com/epratap/epratap/blob/main/Hi.gif" width="20px">. It is nice to meet you. I am just a 24 years old kid studying at GCETTB. But the cool thing about me is that "Programming is my life". I started my programming journey when I was 16 years old. Since then, I have worked on tons of projects.</a>
 
 <p align="center">Professionally, I am very passionate about applications of Deep Learning, Machine Learning, and Artificial Intelligence. Python is my favorite programming language. Currently, I am working on a project about <a href = "https://github.com/epratap/">"One Meeting Assistant"</a>. This project focuses on creating a user-friendly application that can ease the daily monotonous work of meeting management.</p>
 
