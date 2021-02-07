@@ -3,7 +3,7 @@
 
 ### <p align = "center"> <img src="https://github.com/epratap/epratap/blob/main/Hi.gif" width="29px">Hello World!&nbsp;<img src="https://github.com/epratap/epratap/blob/main/Earth.gif" width="24px"></p>
 
-<p align = "center"><img src="https://github.com/epratap/epratap/blob/main/hello.gif" width="24px"/></p>
+<p align = "center"><img src="https://github.com/epratap/epratap/blob/main/hello.gif" width="91px"/></p>
 
 I’m <b>[Pratap Das](https://nedcod.com)</b>. I am a <b>Full Stack Developer</b> from India :india:. I am currently <b>3rd year</b> <b>CSE </b> undergraduate at <b>[Government College Of Engineering And Textile Technology, Berhampore](http://gcettb.ac.in/)</b>,
 Haldia, West Bengal, India.
@@ -41,6 +41,25 @@ Haldia, West Bengal, India.
 - 📄 Know about my experiences [https://epratap.com/about-me](https://epratap.com/about-me)
 
 - ⚡ Fun fact **Eat | Sleep | Code | Repeat**
+
+## My Skills
+```js
+let skills = {
+  language : [C++, Javascript, C, Python],
+  JSFramework : [Node, React],
+  layout: {
+    markup: [HTML, EJS, Handlebars],
+    styling: [CSS, SASS, MaterialUI, Bootstrap]
+  },
+  database: {
+    nonRelational : MongoDB,
+    relational : MySQL
+  },
+  tools : [Git, Postman, Heroku, Netlify]
+  },
+  OS : [Linux]
+}
+```
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
