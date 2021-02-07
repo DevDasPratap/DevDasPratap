@@ -3,7 +3,7 @@
 
 ### <p align = "center"> <img src="https://github.com/epratap/epratap/blob/main/Hi.gif" width="29px">Hello World!&nbsp;<img src="https://github.com/epratap/epratap/blob/main/Earth.gif" width="24px"></p>
 
-<p align = "center"><img src="https://github.com/epratap/epratap/blob/main/code.gif"/></p>
+<p align = "center"><img src="https://github.com/epratap/epratap/blob/main/hello.gif"/></p>
 
 
 <p align="center">Hey there, fellow <𝚌𝚘𝚍𝚎𝚛𝚜/> <img src="https://github.com/epratap/epratap/blob/main/Hi.gif" width="20px">. It is nice to meet you. I am just a 24 years old kid studying at GCETTB. But the cool thing about me is that "Programming is my life". I started my programming journey when I was 16 years old. Since then, I have worked on tons of projects.</a>
