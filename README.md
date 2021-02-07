@@ -47,7 +47,16 @@
 <a href="https://www.topcoder.com/members/epratap" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/topcoder.svg" alt="epratap" height="30" width="40" /></a>
 </p>
 
-
+### Where did I work earlier:question::woman_technologist:
+<code>* [The Sparks Foundation](https://www.thesparksfoundationsingapore.org/) [Content Development Intern]</code>    
+<code>* [Caim Consulting](https://caimconsulting.in/) [Web Developer]</code>    
+<code>* [iSmile Technologies](https://www.ismiletechnologies.com/) [Technical Writer]</code>  
+<code>* [Open Source Code](https://opensourcecode.tech/) [Content Writer]</code>      
+<code>* [Uplift Project](https://www.girlscript.tech/programs/uplift/index.html) [Mentor]</code>    
+<code>* [GirlScript Foundation](https://www.girlscript.tech/) [Chapter Lead]</code>     
+<code>* [Girlscript Summer of Code](https://www.gssoc.tech/) [Mentee]</code>           
+<code>* [Central Coalfields Limited](http://www.centralcoalfields.in/ind/) [Systems Intern]</code>      
+<code>* [XLRI Jamshedpur](https://www.xlri.ac.in/) [Summer Research Intern]</code>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=epratap&show_icons=true&locale=en&layout=compact" alt="epratap" /></p>
 
