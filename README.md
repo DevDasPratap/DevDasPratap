@@ -51,7 +51,7 @@ I code for FUN in any language including
 ## My Skills
 ```js
 let skills = {
-  language : [C++, Javascript, C, Python],
+  language : [C, C++, Javascript, Python],
   JSFramework : [Node, React],
   layout: {
     markup: [HTML, EJS, Handlebars],
@@ -97,18 +97,13 @@ let skills = {
 </p>
 
 ### Where did I work earlier:question::woman_technologist:
-<code>* [The Sparks Foundation](https://www.thesparksfoundationsingapore.org/) [Content Development Intern]</code>    
-<code>* [Caim Consulting](https://caimconsulting.in/) [Web Developer]</code>    
-<code>* [iSmile Technologies](https://www.ismiletechnologies.com/) [Technical Writer]</code>  
-<code>* [Open Source Code](https://opensourcecode.tech/) [Content Writer]</code>      
-<code>* [Uplift Project](https://www.girlscript.tech/programs/uplift/index.html) [Mentor]</code>    
-<code>* [GirlScript Foundation](https://www.girlscript.tech/) [Chapter Lead]</code>     
-<code>* [Girlscript Summer of Code](https://www.gssoc.tech/) [Mentee]</code>           
-<code>* [Central Coalfields Limited](http://www.centralcoalfields.in/ind/) [Systems Intern]</code>      
-<code>* [XLRI Jamshedpur](https://www.xlri.ac.in/) [Summer Research Intern]</code>
+<code>* [The Sparks Foundation](#) [Content Development Intern]</code>    
+<code>* [Caim Consulting](#) [Web Developer]</code>    
+<code>* [iSmile Technologies](#) [Technical Writer]</code>  
+<code>* [Open Source Code](#) [Content Writer]</code>      
 
 ### What am I learning:question::point_down:	
-<code>var topics = ["Flutter", "AWS", "Unity"];</code>
+<code>var topics = ["C++", "Data Structures and Algorithms", "AWS"];</code>
 
 ### My projects
 
