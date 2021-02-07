@@ -58,6 +58,16 @@
 <code>* [Central Coalfields Limited](http://www.centralcoalfields.in/ind/) [Systems Intern]</code>      
 <code>* [XLRI Jamshedpur](https://www.xlri.ac.in/) [Summer Research Intern]</code>
 
+### What am I learning:question::point_down:	
+<code>var topics = ["Flutter", "AWS", "Unity"];</code>
+
+### How to connect with me:question::email:
+:star: <code>[Mail](mailto:chandrikadeb7@gmail.com)</code>    
+:star: <code>[Twitter](https://twitter.com/chandrikadeb7)</code>  
+:star: <code>[LinkedIn](https://www.linkedin.com/in/chandrika-deb/)</code>  
+:star: <code>[Medium](https://medium.com/@chandrikadeb7)</code>  
+:star: <code>[CodePen](https://codepen.io/chandrikadeb7)</code>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=epratap&show_icons=true&locale=en&layout=compact" alt="epratap" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=epratap&show_icons=true&locale=en" alt="epratap" /></p>
