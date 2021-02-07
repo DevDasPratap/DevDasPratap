@@ -1,7 +1,10 @@
 <h1 align="center">Hi there, 👋, I'm Pratap Das</h1>
 <h3 align="center">A Passionate Developer from India [Programmer | Developer | Learner] |</h3>
 
+### Wanna stalk my website:question::point_right: [Click Here](https://chandrikadeb7.github.io/):sparkles:
 
+### Who am I:question: 
+<code>git commit -m "Hello, I'm a Software Engineering Associate at [Amdocs](https://www.amdocs.com/)"</code>
 
 - 🔭 I’m currently working on [Security Systems](#)
 
