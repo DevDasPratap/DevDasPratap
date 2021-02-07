@@ -5,14 +5,13 @@
 
 <p align = "center"><img src="https://github.com/epratap/epratap/blob/main/hello.gif" width="210px"/></p>
 
-I’m <b>[Pratap Das](https://nedcod.com)</b>. I am a <b>Full Stack Developer</b> from India :india:. I am currently <b>3rd year</b> <b>CSE </b> undergraduate at <b>[Government College Of Engineering And Textile Technology, Berhampore](http://gcettb.ac.in/)</b>,
-Haldia, West Bengal, India.
+I’m <b>[Pratap Das](https://nedcod.com)</b>. I am a <b>Full Stack Developer</b> from India :india:. I am currently <b>3rd year</b> <b>CSE </b> undergraduate at <b>[Government College Of Engineering And Textile Technology, Berhampore](http://gcettb.ac.in/)</b>, West Bengal, India.
 
 <p align="center">Hey there, fellow <𝚌𝚘𝚍𝚎𝚛𝚜/> <img src="https://github.com/epratap/epratap/blob/main/Hi.gif" width="20px">. It is nice to meet you. I am just a 24 years old kid studying at GCETTB. But the cool thing about me is that "Programming is my life". I started my programming journey when I was 16 years old. Since then, I have worked on tons of projects.</a>
 
-<p align="center">Professionally, I am very passionate about applications of Deep Learning, Machine Learning, and Artificial Intelligence. Python is my favorite programming language. Currently, I am working on a project about <a href = "https://github.com/epratap/">"One Meeting Assistant"</a>. This project focuses on creating a user-friendly application that can ease the daily monotonous work of meeting management.</p>
+<p align="center">Professionally, I am very passionate about applications of Software Engineering, Web Development, and Web Application Development. C++ is my favorite programming language. Currently, I am working on a project about <a href = "https://github.com/epratap/">"One Meeting Assistant"</a>. This project focuses on creating a user-friendly application that can ease the daily monotonous work of meeting management.</p>
 
-<p align="center">I’m interested in internship opportunities in Data Science, Software Engineering, Backend Development, and Web Application Development. Please visit my website to know better about me. Send me an email if you think I am a good match for your company. <br>
+<p align="center">I’m interested in internship opportunities in Software Engineering, Backend Development, and Web Application Development. Please visit my website to know better about me. Send me an email if you think I am a good match for your company. <br>
   
 <h4 align="center">Show some &nbsp;❤️&nbsp; by starring  &nbsp;⭐&nbsp; some of the repositories!</h4>
 <h4 align="center">I am just a learner and will be always,learn too many things.Can't mention them all here. Whatever looks cool to me and can help the society, you will find me.</h4>
