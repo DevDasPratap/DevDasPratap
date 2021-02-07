@@ -23,9 +23,9 @@ Haldia, West Bengal, India.
 ### Who am I:question: 
 <code>git commit -m "Hello, I'm a Founder at [NedCod](https://nedcod.com/)"</code>
 
-I code for FUN in any language including   
-| C | C++ | JAVA |
- | :---: | :---: | :---: |
+I Code With   
+| C | C++ |
+ | :---: | :---: |
 
 - 🔭 I’m currently working on [Security Systems](#)
 
