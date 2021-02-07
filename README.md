@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, 👋, I'm Pratap Das</h1>
 <h3 align="center">A Passionate Developer from India [Programmer | Developer | Learner] |</h3>
 
-### <img align="center" src="https://github.com/epratap/epratap/blob/main/Hi.gif" width="29px">Hello World!&nbsp;<img src="https://github.com/epratap/epratap/blob/main/Earth.gif" width="24px">
+### <p align = "center"> <img src="https://github.com/epratap/epratap/blob/main/Hi.gif" width="29px">Hello World!&nbsp;<img src="https://github.com/epratap/epratap/blob/main/Earth.gif" width="24px"></p>
 
 <p align = "center"><img src="https://github.com/epratap/epratap/blob/main/code.gif"/></p>
 
