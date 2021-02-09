@@ -104,36 +104,6 @@ let skills = {
 ### What am I learning:question::point_down:	
 <code>var topics = ["C++", "Data Structures and Algorithms", "AWS"];</code>
 
-### My projects
-
-Web app | Front end | Back end | Live demo | GitHub repo
-------- | --------- | -------- | --------- | -----------
-HPS Gems | HTML, CSS, JS | PHP, MySQL | [link](https://.herokuapp.com/) | [link](https://github.com/)
-Attendance Manager | Template | Flask, Firebase | [link](https://herokuapp.com/) | [link](https://github.com/)
-Food Oye (Mobile only) | HTML, Bootstrap, JS | Node.js, Firebase | [link](https://herokuapp.com/) | [link](https://github.com/)
-1 or 2? | HTML, CSS, JS | Flask | [link](https://herokuapp.com/) | [link](https://github.com/)
-Calculator| HTML, CSS, JS | - | [link](https://github.com/) | [link](https://github.com/)
-Court Case Management | HTML, CSS, JS | Node.js, MongoDB | - | [link](https://github.com/)
-
-Web site | Front end | Live demo | GitHub repo
--------- | --------- | --------- | -----------
-Selena Gomez's Bio | HTML, CSS, JS (PWA) | [link](https://github.com/) | [link](https://github.com/)
-Challenges page | HTML, CSS, JS | [link](https://nedcod.com/) | [link](https://nedcod.com/)
-Contact Us page | HTML, CSS, JS | [link](https://nedcod.com/) | [link](https://nedcod.com/)
-Marksheet replica (Desktop only) | HTML, CSS | [link](https://nedcod.com/) | [link](https://nedcod.com/)
-LBL tribute page | HTML, CSS | [link](https://nedcod.com/) | [link](https://nedcod.com/)
-
-Documentation | Front end | Live demo | GitHub repo
-------------- | --------- | --------- | -----------
-git_basics | Asciidoctor, PWA | [link](https://nedcod.com/) | [link](https://nedcod.com/)
-cli | - | - | [link](https://nedcod.com/)
-docker | - | - | [link](https://nedcod.com/)
-networking | - | - | [link](https://nedcod.com/)
-
-Desktop app | Front end | Back end | Live demo | GitHub repo
----- | --------- | -------- | --------- | -----------
-Library Management System (JDBC) | Java (Netbeans drag and drop) | Java, MySQL | - | [link](https://nedcod.com/)
-
 ### How to connect with me:question::email:
 :star: <code>[Mail](mailto:epratapdas@gmail.com)</code>    
 :star: <code>[Twitter](https://twitter.com/epratapdas)</code>  
