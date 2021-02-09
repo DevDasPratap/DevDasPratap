@@ -95,11 +95,9 @@ let skills = {
 <a href="https://www.topcoder.com/members/epratap" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/topcoder.svg" alt="epratap" height="30" width="40" /></a>
 </p>
 
-### Where did I work earlier:question::woman_technologist:
-<code>* [The Sparks Foundation](#) [Content Development Intern]</code>    
-<code>* [Caim Consulting](#) [Web Developer]</code>    
-<code>* [iSmile Technologies](#) [Technical Writer]</code>  
-<code>* [Open Source Code](#) [Content Writer]</code>      
+### Where did I work earlier:question::NedCod.com:
+<code>* [epratap.com](https://epratap.com) [Content Writer & Development]</code>    
+<code>* [NedCod.com](NedCod.com) [Web Developer]</code>         
 
 ### What am I learning:question::point_down:	
 <code>var topics = ["C++", "Data Structures and Algorithms", "AWS"];</code>
