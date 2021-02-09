@@ -40,7 +40,9 @@ I Code With
 
 - 💬 Ask me about **C, CPP, HTML, CSS, WordPress**
 
-- 📫 How to reach me **email@epratap.com**
+- 📫 How to reach epratap.com **email@epratap.com**
+- 📫 How to reach me **epratapdas@gmail.com**
+- 📫 How to reach NedCod **hi@nedcod.com**
 
 - 📄 Know about my experiences [https://epratap.com/about-me](https://epratap.com/about-me)
 - 📝 <a href="https://nedcod.com/resume" target="_blank">My Resume</a>
