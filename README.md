@@ -87,7 +87,7 @@ let skills = {
 <a href="https://instagram.com/epratapdas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="epratapdas" height="30" width="40" /></a>
 <a href="https://dribbble.com/epratap" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="epratap" height="30" width="40" /></a>
 <a href="https://www.behance.net/epratap" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="epratap" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/epratap" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="epratap" height="30" width="40" /></a>
+
 <a href="https://www.hackerrank.com/epratap" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="epratap" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/epratap" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="epratap" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/epratap" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="epratap" height="30" width="40" /></a>
