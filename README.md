@@ -7,7 +7,7 @@
 
 I’m <b>[Pratap Das](https://nedcod.com)</b>. I am a <b>Full Stack Developer</b> from India :india:. I am currently <b>3rd year</b> <b>CSE </b> undergraduate at <b>[Government College Of Engineering And Textile Technology, Berhampore](http://gcettb.ac.in/)</b>, West Bengal, India.
 
-<p align="center">Hey there, fellow <𝚌𝚘𝚍𝚎𝚛𝚜/> <img src="https://github.com/epratap/epratap/blob/main/Hi.gif" width="20px">. It is nice to meet you. I am just a 24 years old kid studying at GCETTB. But the cool thing about me is that "Programming is my life". I started my programming journey when I was 18 years old. Since then, I have worked on tons of projects.</a>
+<p align="center">Hey there, fellow <𝚌𝚘𝚍𝚎𝚛𝚜/> <img src="https://github.com/epratap/epratap/blob/main/Hi.gif" width="20px">. It is nice to meet you. I am just a 24 years old kid studying at GCETTB. But the cool thing about me is that "Programming is my life". I started my programming journey when I was 19 years old. Since then, I have worked on tons of projects.</a>
 
 <p align="center">Professionally, I am very passionate about applications of Software Engineering, Web Development, and Web Application Development. C++ is my favorite programming language. Currently, I am working on a project about <a href = "https://github.com/epratap/">"Meeting Web App"</a>. This project focuses on creating a user-friendly application that can ease the daily monotonous work of meeting management.</p>
 
