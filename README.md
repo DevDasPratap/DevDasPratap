@@ -13,7 +13,7 @@ I’m <b>[Pratap Das](https://nedcod.com)</b>. I am a <b>Full Stack Developer</b
 
 <p align="center">I’m interested in internship opportunities in Software Engineering, Backend Development, and Web Application Development. Please visit my website to know better about me. Send me an email if you think I am a good match for your company. <br>
   
-<h4 align="center">I am just a learner and will be always,learn too many things. Can't mention them all here. Whatever looks cool to me and can help the society, you will find me.</h4>
+<h4 align="center">I am just a learner and will be always, learn too many things. Can't mention them all here. Whatever looks cool to me and can help the society, you will find me.</h4>
 </p>
 
 ### Wanna stalk my website:question::point_right: [Click Here](https://nedcod.com/):sparkles:
