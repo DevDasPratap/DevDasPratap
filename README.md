@@ -16,9 +16,9 @@ I’m <b>[Pratap Das](https://nedcod.com)</b>. I am a <b>Full Stack Developer</b
 <h4 align="center">I am just a learner and will be always, learn too many things. Can't mention them all here. Whatever looks cool to me and can help the society, you will find me.</h4>
 <h4 align="center"> Already Build My Website List</h4>
 </p>
-Website Name  | URL
+First Header  | Second Header
 ------------- | -------------
-Gratuity Calculator  |  [Gratuity Calculator](https://gratuity-calculator.com/)
+Content Cell  | Content Cell
 Content Cell  | Content Cell
 
 
