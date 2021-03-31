@@ -14,8 +14,14 @@ I’m <b>[Pratap Das](https://nedcod.com)</b>. I am a <b>Full Stack Developer</b
 <p align="center">I’m interested in internship opportunities in Software Engineering, Backend Development, and Web Application Development. Please visit my website to know better about me. Send me an email if you think I am a good match for your company. <br>
   
 <h4 align="center">I am just a learner and will be always, learn too many things. Can't mention them all here. Whatever looks cool to me and can help the society, you will find me.</h4>
+<h4 align="center"> Already Build My Website List</h4>
 </p>
-### Gratuity Calculator::point_right: [Click Here](https://gratuity-calculator.com/):sparkles:
+Website Name  | URL
+------------- | -------------
+Gratuity Calculator  | Gratuity Calculator :  [Gratuity Calculator](https://gratuity-calculator.com/)
+Content Cell  | Content Cell
+
+
 ### Wanna stalk my website:question::point_right: [Click Here](https://nedcod.com/):sparkles:
 
 ### Who am I:question: 
