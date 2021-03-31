@@ -15,14 +15,6 @@ I’m <b>[Pratap Das](https://nedcod.com)</b>. I am a <b>Full Stack Developer</b
   
 <h4 align="center">I am just a learner and will be always, learn too many things. Can't mention them all here. Whatever looks cool to me and can help the society, you will find me.</h4>
 </p>
-## List My Website
-***
-A list of websites build by me:
-* [Gratuity Calculator](https://gratuity-calculator.com/) 
-* [EPF Calculator](https://epf-calculator.com/): Version 2.34
-* [Library name](https://example.com): Version 1234
-## Installation
-***
 
 ### Who am I:question: 
 <code>git commit -m "Hello, I'm a Founder at [NedCod](https://nedcod.com/)"</code>
