@@ -15,7 +15,7 @@ I’m <b>[Pratap Das](https://nedcod.com)</b>. I am a <b>Full Stack Developer</b
   
 <h4 align="center">I am just a learner and will be always, learn too many things. Can't mention them all here. Whatever looks cool to me and can help the society, you will find me.</h4>
 </p>
-
+### Gratuity Calculator::point_right: [Click Here](gratuity-calculator.com):sparkles:
 ### Wanna stalk my website:question::point_right: [Click Here](https://nedcod.com/):sparkles:
 
 ### Who am I:question: 
