@@ -18,7 +18,7 @@ I’m <b>[Pratap Das](https://nedcod.com)</b>. I am a <b>Full Stack Developer</b
 </p>
 Website Name  | URL
 ------------- | -------------
-Gratuity Calculator  | Gratuity Calculator :  [Gratuity Calculator](https://gratuity-calculator.com/)
+Gratuity Calculator  |  [Gratuity Calculator](https://gratuity-calculator.com/)
 Content Cell  | Content Cell
 
 
