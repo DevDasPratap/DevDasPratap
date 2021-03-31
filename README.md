@@ -16,7 +16,7 @@ I’m <b>[Pratap Das](https://nedcod.com)</b>. I am a <b>Full Stack Developer</b
 <h4 align="center">I am just a learner and will be always, learn too many things. Can't mention them all here. Whatever looks cool to me and can help the society, you will find me.</h4>
 <h4 align="center"> Already Build My Website List</h4>
 </p>
-### Wanna stalk my website:question::point_right: [Click Here](https://nedcod.com/):sparkles:
+### Wanna stalk my website:question::point_right: [Click Here](https://nedcod.com/):sparkles
 
 ### Who am I:question: 
 <code>git commit -m "Hello, I'm a Founder at [NedCod](https://nedcod.com/)"</code>
