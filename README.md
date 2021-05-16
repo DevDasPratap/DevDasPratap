@@ -101,9 +101,9 @@ let skills = {
 <code>var topics = ["C++", "Data Structures and Algorithms", "AWS"];</code>
 
 ### How to connect with me:question::email:
-:star: <code>[Mail](mailto:epratapdas@gmail.com)</code>    
-:star: <code>[Twitter](https://twitter.com/epratapdas)</code>  
-:star: <code>[LinkedIn](https://www.linkedin.com/in/epratap/)</code>  
+:star: <code>[Mail](mailto:devdas.imail@gmail.com)</code>    
+:star: <code>[Twitter](https://twitter.com/DevDasPratap)</code>  
+:star: <code>[LinkedIn](https://www.linkedin.com/in/DevDasPratap/)</code>  
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=epratap&show_icons=true&locale=en&layout=compact" alt="epratap" /></p>
 
