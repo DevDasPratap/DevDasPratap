@@ -25,11 +25,10 @@ I Code With
 
 - 🔭 I’m currently working on [NedCod](https://nedcod.com)
 
-- 🌱 I’m currently learning **MERN Full Stack Web Developer**
+- 🌱 I’m currently learning **MERN Full Stack Web Development**
 
-- 👯 I’m looking to collaborate on [Trading Software](#)
 
-- 🤝 I’m looking for help with [Traffic Management System](#)
+- 🤝 I’m looking for help with [MERN Full Stack Web Development](#)
 
 - 👨‍💻 All of my projects are available at [https://nedcod.com/](https://nedcod.com/)
 
@@ -48,10 +47,10 @@ I Code With
 ## My Skills
 ```js
 let skills = {
-  language : [C, C++, Javascript, Python],
+  language : [C, C++, Javascript],
   JSFramework : [Node, React],
   layout: {
-    markup: [HTML, EJS, Handlebars],
+    markup: [HTML, EJS],
     styling: [CSS, SASS, MaterialUI, Bootstrap]
   },
   database: {
@@ -93,7 +92,7 @@ let skills = {
 </p>
 
 ### Where did I work earlier:question::NedCod.com:
-<code>* [epratap.com](https://epratap.com) [Content Writer & Development]</code>    
+<code>* [NedCod.com](https://nedcod.com) [Content Writer & Development]</code>    
 <code>* [NedCod.com](NedCod.com) [Web Developer]</code>         
 
 ### What am I learning:question::point_down:	
