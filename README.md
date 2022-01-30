@@ -40,7 +40,7 @@ I Code With
 - 📫 How to reach me **pratap.das@gcettb.ac.in**
 
 - 📄 Know about my experiences [https://nedcod.com/about-me](https://nedcod.com/about-me)
-- 📝 <a href="https://nedcod.com/resume" target="_blank">My Resume</a>
+- 📝 <a href="https://nedcod.com/hire-me/" target="_blank">My Resume</a>
 
 - ⚡ Fun fact **Eat | Sleep | Code | Repeat**
 
