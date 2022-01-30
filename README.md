@@ -71,7 +71,7 @@ let skills = {
 
 ``` Database - Mongodb, mySQL```
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/epratap" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="epratap" height="30" width="40" /></a>
 <a href="https://dev.to/epratap" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="epratap" height="30" width="40" /></a>
@@ -90,7 +90,7 @@ let skills = {
 <a href="https://auth.geeksforgeeks.org/user/epratap" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="epratap" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/epratap" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/topcoder.svg" alt="epratap" height="30" width="40" /></a>
 </p>
-
+ -->
 ### Where did I work earlier:question::NedCod.com:
 <code>* [NedCod.com](https://nedcod.com) [Content Writer & Development]</code>    
 <code>* [NedCod.com](NedCod.com) [Web Developer]</code>         
