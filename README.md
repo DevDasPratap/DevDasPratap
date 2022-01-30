@@ -102,7 +102,3 @@ let skills = {
 :star: <code>[Mail](mailto:devdas.imail@gmail.com)</code>    
 :star: <code>[Twitter](https://twitter.com/DevDasPratap)</code>  
 :star: <code>[LinkedIn](https://www.linkedin.com/in/DevDasPratap/)</code>  
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=epratap&show_icons=true&locale=en&layout=compact" alt="epratap" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=epratap&show_icons=true&locale=en" alt="epratap" /></p>
