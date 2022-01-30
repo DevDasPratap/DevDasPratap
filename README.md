@@ -36,7 +36,7 @@ I Code With
 
 - 💬 Ask me about **C, C++, HTML, CSS, JS, WordPress**
 
-- 📫 How to reach DevDasHello@gmail.com **DevDasHello@gmail.com**
+- 📫 How to reach Gmail **DevDasHello@gmail.com**
 - 📫 How to reach me **pratap.das@gcettb.ac.in**
 
 - 📄 Know about my experiences [https://nedcod.com/about-me](https://nedcod.com/about-me)
