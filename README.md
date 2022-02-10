@@ -21,7 +21,6 @@ I’m <b>[Pratap Das](https://nedcod.com/hire-me)</b>. I am a <b>Full Stack Deve
 
 I Code With   
 | C | C++ | JavaScript |
- | :---: | :---: |
 
 - 🔭 I’m currently working on [NedCod](https://nedcod.com)
 
@@ -34,7 +33,7 @@ I Code With
 
 - 📝 I regulary write articles on [https://nedcod.com/](https://nedcod.com/)
 
-- 💬 Ask me about **C, C++, HTML, CSS, JS, WordPress**
+- 💬 Ask me about **C, C++, HTML, CSS, JS, WordPress, SEO**
 
 - 📫 How to reach Gmail **DevDasHello@gmail.com**
 - 📫 How to reach me **pratap.das@gcettb.ac.in**
