@@ -20,7 +20,7 @@ I’m <b>[Pratap Das](https://nedcod.com/hire-me)</b>. I am a <b>Full Stack Deve
 <code>git commit -m "Hello, I'm a DevDas, work at [NedCod](https://nedcod.com/)"</code>
 
 I Code With   
-| C | C++ |
+| C | C++ | JavaScript |
  | :---: | :---: |
 
 - 🔭 I’m currently working on [NedCod](https://nedcod.com)
