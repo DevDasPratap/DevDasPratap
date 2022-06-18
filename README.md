@@ -3,7 +3,7 @@
 
 ### <p align = "center"> <img src="https://github.com/epratap/epratap/blob/main/Hi.gif" width="29px">Hello World!&nbsp;<img src="https://github.com/epratap/epratap/blob/main/Earth.gif" width="24px"></p>
 
-<p align = "center"><img src="https://github.com/epratap/epratap/blob/main/hello.gif" width="21px"/></p>
+<p align = "center"><img src="https://github.com/epratap/epratap/blob/main/hello.gif" width="210px"/></p>
 
 I’m <b>[Pratap Das](https://nedcod.com/hire-me)</b>. I am a <b>Full Stack Developer</b> from India :india:. I am currently <b>final year</b> <b>CSE </b> undergraduate at <b>[Government College Of Engineering And Textile Technology, Berhampore](http://gcettb.ac.in/)</b>, West Bengal, India.
 
@@ -71,25 +71,7 @@ let skills = {
 ``` Database - Mongodb, mySQL```
 
 <!-- <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/epratap" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="epratap" height="30" width="40" /></a>
-<a href="https://dev.to/epratap" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="epratap" height="30" width="40" /></a>
-<a href="https://twitter.com/epratapdas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="epratapdas" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/epratap" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="epratap" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/epratap" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="epratap" height="30" width="40" /></a>
-<a href="https://codesandbox.com/pratap das" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="pratap das" height="30" width="40" /></a>
-<a href="https://fb.com/iampratapdas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="iampratapdas" height="30" width="40" /></a>
-<a href="https://instagram.com/epratapdas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="epratapdas" height="30" width="40" /></a>
-<a href="https://dribbble.com/epratap" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="epratap" height="30" width="40" /></a>
-<a href="https://www.behance.net/epratap" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="epratap" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/epratap" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="epratap" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/epratap" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="epratap" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/epratap" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="epratap" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/epratap" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="epratap" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/epratap" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="epratap" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/epratap" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/topcoder.svg" alt="epratap" height="30" width="40" /></a>
-</p>
- -->
+
 ### Where did I work earlier:question::NedCod.com:
 <code>* [NedCod.com](https://nedcod.com) [Content Writer & Development]</code>    
 <code>* [NedCod.com](NedCod.com) [Web Developer]</code>         
