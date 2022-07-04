@@ -5,11 +5,11 @@
 
 <p align = "center"><img src="https://github.com/DevDasPratap/DevDasPratap/blob/main/hello.gif" width="100px" height="100px"/></p>
 
-I’m <b>[Pratap Das](https://nedcod.com/hire-me)</b>. I am a <b>Full Stack Developer</b> from India :india:. I am Graduated from <b>[Government College Of Engineering And Textile Technology, Berhampore](http://gcettb.ac.in/)</b>, West Bengal, India.
+I’m <b>[Pratap Das](https://nedcod.com/hire-me)</b>. I am a <b>Full Stack Developer</b> from India :india:. I am Graduated in Computer Science and Engineering (CSE) from <b>[Government College Of Engineering And Textile Technology, Berhampore](http://gcettb.ac.in/)</b>, West Bengal, India.
 
-<p align="center">Hey there, fellow <𝚌𝚘𝚍𝚎𝚛𝚜/> <img src="https://github.com/DevDasPratap/DevDasPratap/blob/main/Hi.gif" width="22px" height="22px">. It is nice to meet you. I am just a 24 years old kid studying at GCETTB. But the cool thing about me is that "Programming is my life". I started my programming journey when I was 19 years old. Since then, I have worked on tons of projects.</a>
+<p align="center">Hey there, fellow <𝚌𝚘𝚍𝚎𝚛𝚜/> <img src="https://github.com/DevDasPratap/DevDasPratap/blob/main/Hi.gif" width="22px" height="22px">. It is nice to meet you. I am just a 26 years old currently working at BCD. But the cool thing about me is that "Programming is my life". I started my programming journey when I was 18 years old. Since then, I have worked on tons of projects.</a>
 
-<p align="center">Professionally, I am very passionate about applications of Software Engineering, Web Development, and Web Application Development. C++ is my favorite programming language. Currently, I am working on a project about <a href = "https://github.com/DevDasPratap/Daily-Programming-Diary/tree/main/Project">"COVID-19 Vaccine Management System"</a>. This project focuses on Covid-19 Management.</p>
+<p align="center">Professionally, I am very passionate about applications of Software Engineering, Web Development, and Web Application Development. JavaScript is my favorite programming language. Currently, I am working on a project about <a href = "https://github.com/DevDasPratap/Daily-Programming-Diary/tree/main/Project">"COVID-19 Vaccine Management System"</a>. This project focuses on Covid-19 Management.</p>
 
 <p align="center">I’m interested opportunities in Software Engineering, Backend Development, and Web Application Development. Please visit my website to know better about me. Send me an email if you think I am a good match for your company. <br>
   
@@ -20,11 +20,11 @@ I’m <b>[Pratap Das](https://nedcod.com/hire-me)</b>. I am a <b>Full Stack Deve
 <code>git commit -m "Hello, I'm a DevDas, work at [NedCod](https://nedcod.com/)"</code>
 
 I Code With   
-| C | C++ | JavaScript |
+| JavaScript |
 
-- 🔭 I’m currently working on [NedCod](https://nedcod.com)
+- 🔭 I’m currently working on [Blu Cocoon Digital Private Limited](#)
 
-- 🌱 I’m currently learning **MERN Full Stack Web Development**
+- 🌱 I’m currently learning **MEAN Full Stack Web Development**
 
 
 - 🤝 I’m looking for help with [MERN Full Stack Web Development](#)
@@ -33,21 +33,21 @@ I Code With
 
 - 📝 I regulary write articles on [https://nedcod.com/](https://nedcod.com/)
 
-- 💬 Ask me about **C, C++, HTML, CSS, JS, WordPress, SEO**
+- 💬 Ask me about **HTML, CSS, JavaScript, Angular, NodeJs, ExpressJs, MongoDB**
 
 - 📫 How to reach Gmail **DevDasHello@gmail.com**
 - 📫 How to reach me **pratap.das@gcettb.ac.in**
 
-- 📄 Know about my experiences [https://nedcod.com/about-me](https://nedcod.com/about-me)
-- 📝 <a href="https://nedcod.com/hire-me/" target="_blank">My Resume</a>
+- 📄 Know about my experiences [https://nedcod.com/hire-me](https://nedcod.com/hire-me/)
+- 📝 <a href="https://nedcod.com/resume" target="_blank">My Resume</a>
 
 - ⚡ Fun fact **Eat | Sleep | Code | Repeat**
 
 ## My Skills
 ```js
 let skills = {
-  language : [C, C++, Javascript],
-  JSFramework : [Node, React],
+  language : [Javascript],
+  JSFramework : [Angular, Node, React],
   layout: {
     markup: [HTML, EJS],
     styling: [CSS, SASS, MaterialUI, Bootstrap]
@@ -62,9 +62,9 @@ let skills = {
 }
 ```
 ## Programming Skills :computer:
-``` Programming Language - C, C++```
+``` Programming Language - JavaScript```
 
-``` Front End - HTML, CSS, js, Bootstrap```
+``` Front End - HTML, CSS, js, Bootstrap, Material-UI, Angular```
 
 ``` Back End - Nodejs, Expressjs ```
 
@@ -77,7 +77,7 @@ let skills = {
 <code>* [NedCod.com](NedCod.com) [Web Developer]</code>         
 
 ### What am I learning:question::point_down:	
-<code>var topics = ["C++", "Data Structures and Algorithms", "AWS"];</code>
+<code>var topics = ["JavaScript", "Data Structures and Algorithms", "AWS"];</code>
 
 ### How to connect with me:question::email:
 :star: <code>[Mail](mailto:devdas.imail@gmail.com)</code>    
