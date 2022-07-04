@@ -1,9 +1,9 @@
 <h1 align="center">Hi there, 👋, I'm Pratap Das Welcome to my GitHub!</h1>
 <h3 align="center">A Passionate Developer from India [Learner | Programmer | Developer] </h3>
 
-### <p align = "center"> <img src="https://github.com/DevDasPratap/DevDasPratap/blob/main/Hi.gif" width="29px">Hello World!&nbsp;<img src="https://github.com/DevDasPratap/DevDasPratap/blob/main/Earth.gif" width="24px"></p>
+### <p align = "center"> <img src="https://github.com/DevDasPratap/DevDasPratap/blob/main/Hi.gif" width="70px" height="70px">Hello World!&nbsp;<img src="https://github.com/DevDasPratap/DevDasPratap/blob/main/Earth.gif" width="70px" height="70px"></p>
 
-<p align = "center"><img src="https://github.com/DevDasPratap/DevDasPratap/blob/main/hello.gif" width="30px" height="30px"/></p>
+<p align = "center"><img src="https://github.com/DevDasPratap/DevDasPratap/blob/main/hello.gif" width="70px" height="70px"/></p>
 
 I’m <b>[Pratap Das](https://nedcod.com/hire-me)</b>. I am a <b>Full Stack Developer</b> from India :india:. I am Graduated from <b>[Government College Of Engineering And Textile Technology, Berhampore](http://gcettb.ac.in/)</b>, West Bengal, India.
 
