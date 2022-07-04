@@ -1,13 +1,13 @@
 <h1 align="center">Hi there, 👋, I'm Pratap Das Welcome to my GitHub!</h1>
 <h3 align="center">A Passionate Developer from India [Learner | Programmer | Developer] </h3>
 
-### <p align = "center"> <img src="https://github.com/DevDasPratap/DevDasPratap/blob/main/Hi.gif" width="70px" height="70px">Hello World!&nbsp;<img src="https://github.com/DevDasPratap/DevDasPratap/blob/main/Earth.gif" width="70px" height="70px"></p>
+### <p align = "center"> <img src="https://github.com/DevDasPratap/DevDasPratap/blob/main/Hi.gif" width="70px" height="70px">Hello World!&nbsp;<img src="https://github.com/DevDasPratap/DevDasPratap/blob/main/Earth.gif" width="40px" height="40px"></p>
 
-<p align = "center"><img src="https://github.com/DevDasPratap/DevDasPratap/blob/main/hello.gif" width="70px" height="70px"/></p>
+<p align = "center"><img src="https://github.com/DevDasPratap/DevDasPratap/blob/main/hello.gif" width="50px" height="50px"/></p>
 
 I’m <b>[Pratap Das](https://nedcod.com/hire-me)</b>. I am a <b>Full Stack Developer</b> from India :india:. I am Graduated from <b>[Government College Of Engineering And Textile Technology, Berhampore](http://gcettb.ac.in/)</b>, West Bengal, India.
 
-<p align="center">Hey there, fellow <𝚌𝚘𝚍𝚎𝚛𝚜/> <img src="https://github.com/DevDasPratap/DevDasPratap/blob/main/Hi.gif" width="20px">. It is nice to meet you. I am just a 24 years old kid studying at GCETTB. But the cool thing about me is that "Programming is my life". I started my programming journey when I was 19 years old. Since then, I have worked on tons of projects.</a>
+<p align="center">Hey there, fellow <𝚌𝚘𝚍𝚎𝚛𝚜/> <img src="https://github.com/DevDasPratap/DevDasPratap/blob/main/Hi.gif" width="22px" height="22px">. It is nice to meet you. I am just a 24 years old kid studying at GCETTB. But the cool thing about me is that "Programming is my life". I started my programming journey when I was 19 years old. Since then, I have worked on tons of projects.</a>
 
 <p align="center">Professionally, I am very passionate about applications of Software Engineering, Web Development, and Web Application Development. C++ is my favorite programming language. Currently, I am working on a project about <a href = "https://github.com/DevDasPratap/Daily-Programming-Diary/tree/main/Project">"COVID-19 Vaccine Management System"</a>. This project focuses on Covid-19 Management.</p>
 
