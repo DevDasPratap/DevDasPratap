@@ -19,8 +19,7 @@ I’m <b>[Pratap Das](https://nedcod.com/hire-me)</b>. I am a <b>Full Stack Deve
 ### Who am I:question: 
 <code>git commit -m "Hello, I'm a DevDas, work at [NedCod](https://nedcod.com/)"</code>
 
-I Code With   
-| JavaScript |
+I Code With: JavaScript
 
 - 🔭 I’m currently working on [Blu Cocoon Digital Private Limited](#)
 
