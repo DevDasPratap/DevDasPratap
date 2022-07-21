@@ -16,6 +16,17 @@ I’m <b>[Pratap Das](https://nedcod.com/hire-me)</b>. I am a <b>Full Stack Deve
 <h4 align="center">I am just a learner and will be always, learn too many things. Can't mention them all here. Whatever looks cool to me and can help the society, you will find me.</h4>
 </p>
 
+
+
+I'm a software Developer and tech enthusiast who is passionate about creating technology to elevate people, 
+and building community Where sharing of knowledge is very easy. I'm mostly prefer Javascript (till now 😊) as Programming Language. 
+I enjoy working with Nodejs, REST API's, Mongodb and much more.
+
+## Find me around the web 🌎:
+- Connect me on <a href="https://www.linkedin.com/in/DevDasPratap/">LinkedIn</a> 💼
+- You can Contact me: DevDasPratap@gmail.com 📫
+
+
 ### Who am I:question: 
 <code>git commit -m "Hello, I'm a DevDas, Building => [NedCod](https://nedcod.com/)"</code>
 
