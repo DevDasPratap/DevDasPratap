@@ -48,7 +48,7 @@ I Code With: JavaScript
 - 📫 How to reach Gmail **DevDasHello@gmail.com**
 
 - 📄 Know about my experiences [https://nedcod.com/about](https://nedcod.com/hire-me/)
-- 📝 <a href="[https://nedcod.com/resume](https://devdaspratap.github.io/resume/)" target="_blank">My Resume</a>
+- 📝 <a href="https://devdaspratap.github.io/resume/" target="_blank">My Resume</a>
 
 - ⚡ Fun fact **Eat | Sleep | Code | Repeat**
 
