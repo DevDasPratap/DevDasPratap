@@ -9,7 +9,7 @@ I’m <b>[Pratap Das](https://nedcod.com/hire-me)</b>. I am a <b>Full Stack Deve
 
 <p align="center">Hey there, fellow <𝚌𝚘𝚍𝚎𝚛𝚜/> <img src="https://github.com/DevDasPratap/DevDasPratap/blob/main/Hi.gif" width="22px" height="22px">. It is nice to meet you. Currently working at BCD. But the cool thing about me is that "Programming is my life". I started my programming journey when I was 18 years old. Since then, I have worked on tons of projects.</a>
 
-<p align="center">Professionally, I am very passionate about applications of Software Engineering, Web Development, and Web Application Development. JavaScript is my favorite programming language. Currently, I am working on a project about <a href = "#">"Personal Product"</a>. This project focuses on Social media.</p>
+<p align="center">Professionally, I am very passionate about applications of Software Engineering, Web Development, and Web Application Development. JavaScript is my favorite programming language. Currently, I am working on a project about <a href = "#">"Personal Project"</a>. This project focuses on Social media.</p>
 
 <p align="center">I’m interested opportunities in Software Engineering, Backend Development, and Web Application Development. Please visit my website to know better about me. Send me an email if you think I am a good match for your company. <br>
   
@@ -37,7 +37,7 @@ I Code With: JavaScript
 - 🌱 I’m currently learning **MEAN Full Stack Web Development**
 
 
-- 🤝 I’m looking for help with [MERN Full Stack Web Development](#)
+- 🤝 I’m looking for help with [MEAN Full Stack Web Development](#)
 
 - 👨‍💻 All of my projects are available at [https://nedcod.com/](https://nedcod.com/)
 
@@ -45,7 +45,7 @@ I Code With: JavaScript
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Angular, NodeJs, ExpressJs, MongoDB**
 
-- 📫 How to reach Gmail **DevDasHello@gmail.com**
+- 📫 How to reach Gmail **Contact.Pratap.Das@gmail.com**
 
 - 📄 Know about my experiences [https://nedcod.com/about](https://nedcod.com/hire-me/)
 - 📝 <a href="https://devdaspratap.github.io/resume/" target="_blank">My Resume</a>
