@@ -18,13 +18,13 @@ I’m <b>[Pratap Das](https://nedcod.com/hire-me)</b>. I am a <b>Full Stack Deve
 
 
 
-I'm a software Developer and tech enthusiast who is passionate about creating technology to elevate people, 
-and building community Where sharing of knowledge is very easy. I'm mostly prefer Javascript (till now 😊) as Programming Language. 
-I enjoy working with Nodejs, REST API's, Mongodb and much more.
+I'm a software Developer and tech enthusiast who is passionate about creating technology to elevate people 
+and building a community Where sharing of knowledge is very easy. I mostly prefer Javascript (till now 😊) as a Programming Language. 
+I enjoy working with Nodejs, REST APIs, ,MongoDB and much more.
 
 ## Find me around the web 🌎:
 - Connect me on <a href="https://www.linkedin.com/in/DevDasPratap/">LinkedIn</a> 💼
-- You can Contact me: DevDasPratap@gmail.com 📫
+- You can Contact me: Contact.Pratap.Das@gmail.com 📫
 
 
 ### Who am I:question: 
@@ -41,7 +41,7 @@ I Code With: JavaScript
 
 - 👨‍💻 All of my projects are available at [https://nedcod.com/](https://nedcod.com/)
 
-- 📝 I regulary write articles on [https://nedcod.com/](https://nedcod.com/)
+- 📝 I regularly write articles on [https://nedcod.com/](https://nedcod.com/)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Angular, NodeJs, ExpressJs, MongoDB**
 
