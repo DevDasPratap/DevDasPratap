@@ -28,14 +28,13 @@ I enjoy working with Nodejs, REST APIs, ,MongoDB and much more.
 
 
 ### Who am I:question: 
-<code>git commit -m "Hello, I'm a DevDas, Building => [NedCod](https://nedcod.com/)"</code>
+<code>git commit -m "Hello, I'm a Pratap Das, Building => [NedCod](https://nedcod.com/)"</code>
 
-I Code With: JavaScript
+I Code With JavaScript
 
 - 🔭 I’m currently working on [Blu Cocoon Digital Private Limited](#)
 
 - 🌱 I’m currently learning **MEAN Full Stack Web Development**
-
 
 - 🤝 I’m looking for help with [MEAN Full Stack Web Development](#)
 
@@ -43,7 +42,7 @@ I Code With: JavaScript
 
 - 📝 I regularly write articles on [https://nedcod.com/](https://nedcod.com/)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Angular, NodeJs, ExpressJs, MongoDB**
+- 💬 Ask me about **HTML, CSS, JavaScript, Angular, NodeJs, ExpressJs, MongoDB, Git**
 
 - 📫 How to reach Gmail **Contact.Pratap.Das@gmail.com**
 
@@ -59,25 +58,17 @@ let skills = {
   JSFramework : [Angular, Node, React],
   layout: {
     markup: [HTML, EJS],
-    styling: [CSS, SASS, MaterialUI, Bootstrap]
+    styling: [CSS, MaterialUI, Bootstrap]
   },
   database: {
-    nonRelational : MongoDB,
-    relational : MySQL
+    nonRelational: MongoDB,
+    relational: MySQL
   },
   tools : [Git, Postman, Heroku, Netlify]
   },
   OS : [Linux]
 }
 ```
-## Programming Skills :computer:
-``` Programming Language - JavaScript```
-
-``` Front End - HTML, CSS, js, Bootstrap, Material-UI, Angular```
-
-``` Back End - Nodejs, Expressjs ```
-
-``` Database - Mongodb, mySQL```
 
 <!-- <h3 align="left">Connect with me:</h3>
 
@@ -86,9 +77,9 @@ let skills = {
 <code>* [NedCod.com](NedCod.com) [Web Developer]</code>         
 
 ### What am I learning:question::point_down:	
-<code>var topics = ["JavaScript", "Data Structures and Algorithms", "AWS"];</code>
+<code>var topics = ["JavaScript", "Data Structures and Algorithms", "AWS", "DevOps"];</code>
 
 ### How to connect with me:question::email:
-:star: <code>[Mail](mailto:devdas.imail@gmail.com)</code>    
+:star: <code>[Mail](mailto:contact.pratap.das@gmail.com)</code>    
 :star: <code>[Twitter](https://twitter.com/DevDasPratap)</code>  
 :star: <code>[LinkedIn](https://www.linkedin.com/in/DevDasPratap/)</code>  
