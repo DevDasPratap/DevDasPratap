@@ -3,7 +3,7 @@
 
 ### <p align = "center"> <img src="https://github.com/DevDasPratap/DevDasPratap/blob/main/Hi.gif" width="22px" height="22px">Hello World!&nbsp;<img src="https://github.com/DevDasPratap/DevDasPratap/blob/main/Earth.gif" width="22px" height="22px"></p>
 
-<p align = "center"><img src="https://github.com/DevDasPratap/DevDasPratap/blob/main/hello.gif" max-width="200px" max-height="150px"/></p>
+<!-- <p align = "center"><img src="https://github.com/DevDasPratap/DevDasPratap/blob/main/hello.gif" max-width="200px" max-height="150px"/></p>
 
 I’m <b>[Pratap Das](https://nedcod.com/hire-me)</b>. I am a <b>Full Stack Developer</b> from India :india:. I am Graduated in Computer Science and Engineering (CSE) from <b>[Government College Of Engineering And Textile Technology, Berhampore](http://gcettb.ac.in/)</b>, West Bengal, India.
 
