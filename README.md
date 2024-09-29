@@ -7,8 +7,6 @@
 
 I’m <b>[Pratap Das](https://nedcod.com/hire-me)</b>. I am a <b>Full Stack Developer</b> from India :india:. I am Graduated in Computer Science and Engineering (CSE) from <b>[Government College Of Engineering And Textile Technology, Berhampore](http://gcettb.ac.in/)</b>, West Bengal, India.
 
-<p align="center">Hey there, fellow <𝚌𝚘𝚍𝚎𝚛𝚜/> <img src="https://github.com/DevDasPratap/DevDasPratap/blob/main/Hi.gif" width="22px" height="22px">. It is nice to meet you. Currently working at BCD.</a>
-
 <p align="center">Professionally, I am very passionate about applications of Software Engineering, Web Development, and Web Application Development. JavaScript is my favorite programming language. Currently, I am working on a project about <a href = "#">"Personal Project"</a>. This project focuses on Social media.</p>
 
 <p align="center">I’m interested opportunities in Software Engineering, Backend Development, and Web Application Development. Please visit my website to know better about me. Send me an email if you think I am a good match for your company. <br>
