@@ -46,27 +46,32 @@ I Code With JavaScript
 
 - 📫 How to reach Gmail **Contact.Pratap.Das@gmail.com**
 
-- 📄 Know about my experiences [https://nedcod.com/about](https://nedcod.com/hire-me/)
+- 📄 Know about my experiences [https://nedcod.com/about](https://nedcod.com/about)
 - 📝 <a href="https://devdaspratap.github.io/resume/" target="_blank">My Resume</a>
 
 - ⚡ Fun fact **Eat | Sleep | Code | Repeat**
 
 ## My Skills
 ```js
-let skills = {
-  language : [Javascript],
-  JSFramework : [Angular, Node, React],
-  layout: {
-    markup: [HTML, EJS],
-    styling: [CSS, MaterialUI, Bootstrap]
+const skills = {
+  frontend: {
+    language: ['JavaScript', 'TypeScript'],
+    frameworks: ['Angular', 'React'],
+    layout: {
+      markup: ['HTML', 'EJS'],
+      styling: ['CSS', 'MaterialUI', 'Bootstrap', 'Tailwind']
+    }
   },
-  database: {
-    nonRelational: MongoDB,
-    relational: MySQL
+  backend: {
+    runtime: ['Node.js'],
+    frameworks: ['Express.js'],
+    database: {
+      nonRelational: 'MongoDB',
+      relational: 'MySQL'
+    },
+    tools: ['Git', 'Postman', 'Heroku', 'Netlify', 'AWS']
   },
-  tools : [Git, Postman, Heroku, Netlify]
-  },
-  OS : [Linux]
+  OS: ['Linux']
 }
 ```
 
