@@ -9,7 +9,7 @@
 ---
 
 ## 👨‍💻 About Me  
-I’m **[Pratap Das](https://nedcod.com/hire-me)**, a **Full Stack Developer** from India 🇮🇳.  
+I’m **[Pratap Das](https://nedcod.com/about)**, a **Full Stack Developer** from India 🇮🇳.  
 I graduated in **Computer Science and Engineering (CSE)** from the **[Government College Of Engineering And Textile Technology, Berhampore](http://gcettb.ac.in/)**, West Bengal, India.  
 
 - 🔭 **Currently working at:** Blu Cocoon Digital Private Limited  
