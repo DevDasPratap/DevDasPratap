@@ -33,7 +33,7 @@ I enjoy working with Nodejs, REST APIs, ,MongoDB and much more.
 
 I Code With JavaScript
 
-- 🔭 I’m currently working on [Blu Cocoon Digital Private Limited](#)
+- 🔭 I’m currently working as [Software Developer](#)
 
 - 🌱 I’m currently learning **MEAN/MERN Full Stack Web Development**
 
