@@ -10,7 +10,8 @@ I’m <b>[Pratap Das](https://nedcod.com/about)</b>. I am a <b>Full Stack Develo
 <p align="center">Professionally, I am very passionate about applications of Software Engineering, Web Development, and Web Application Development. JavaScript is my favourite programming language. Currently, I am working on a project about <a href = "https://nedcod.com/">"JavaScript Full Stack Docs"</a>. This project focuses on JavaScript</p>
 
 <p align="center">I’m interested opportunities in Software Engineering, Backend Development, and Web Application Development. Please visit my website to know better about me. Send me an email if you think I am a good match for your company. <br>
-<!--
+
+  <!--
 <h4 align="center">I am just a learner and will be always, learn too many things. Can't mention them all here. Whatever looks cool to me and can help the society, you will find me.</h4>
 </p>
 
@@ -19,6 +20,7 @@ I’m <b>[Pratap Das](https://nedcod.com/about)</b>. I am a <b>Full Stack Develo
 I'm a software Developer and tech enthusiast who is passionate about creating technology to elevate people 
 and building a community Where sharing of knowledge is very easy. I mostly prefer Javascript (till now 😊) as a Programming Language. 
 I enjoy working with Nodejs, REST APIs, ,MongoDB and much more.
+
 -->
 
 ## Find me around the web 🌎:
