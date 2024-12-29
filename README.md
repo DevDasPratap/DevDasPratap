@@ -65,7 +65,7 @@ const skills = {
     frameworks: ['Express.js'],
     database: {
       nonRelational: 'MongoDB',
-      relational: ['MySQL', 'PostgreSQL']
+      relational: ['PostgreSQL']
     },
     tools: ['Git', 'Postman', 'Heroku', 'Netlify', 'AWS', 'Redis', 'Prisma']
   },
@@ -74,14 +74,7 @@ const skills = {
   },
   OS: ['Linux']
 }
-```
-
-<!-- <h3 align="left">Connect with me:</h3>
-
-### Where did I work earlier:question::NedCod.com:
-<code>* [NedCod.com](https://nedcod.com) [Content Writer & Development]</code>    
-<code>* [NedCod.com](NedCod.com) [Web Developer]</code>         
-
+```       
 ### What am I learning:question::point_down:	
 <code>var topics = ["JavaScript", "Data Structures and Algorithms", "AWS", "DevOps"];</code>
 
