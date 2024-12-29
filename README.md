@@ -32,13 +32,13 @@ I Code With JavaScript
 
 - 🔭 I’m currently working on [Blu Cocoon Digital Private Limited](#)
 
-- 🌱 I’m currently learning **MEAN Full Stack Web Development**
+- 🌱 I’m currently learning **MEAN/MERN Full Stack Web Development**
 
 - 🤝 I’m looking for help with [MEAN Full Stack Web Development](#)
 
 - 👨‍💻 All of my projects are available at [https://nedcod.com/](https://nedcod.com/)
 
-- 📝 I regularly write articles on [https://nedcod.com/](https://nedcod.com/)
+- 📝 I regularly write docs on [https://nedcod.com/](https://nedcod.com/)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Angular, NodeJs, ExpressJs, MongoDB, Git**
 
@@ -65,9 +65,12 @@ const skills = {
     frameworks: ['Express.js'],
     database: {
       nonRelational: 'MongoDB',
-      relational: 'MySQL'
+      relational: ['MySQL', 'PostgreSQL']
     },
-    tools: ['Git', 'Postman', 'Heroku', 'Netlify', 'AWS']
+    tools: ['Git', 'Postman', 'Heroku', 'Netlify', 'AWS', 'Redis', 'Prisma']
+  },
+  architecture: {
+    patterns: ['Monorepo', 'Microservices']
   },
   OS: ['Linux']
 }
