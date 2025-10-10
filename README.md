@@ -34,7 +34,7 @@ I specialize in building **scalable, high-performance backend systems**, **micro
 
 #### ⚙️ Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastify,mongodb,postgres,redis,kafka,nginx" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis,kafka,nginx" />
 </p>
 
 #### ☁️ DevOps & Tools
@@ -51,7 +51,6 @@ I specialize in building **scalable, high-performance backend systems**, **micro
 ---
 
 ### 📊 **GitHub Stats**
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DevDasPratap&show_icons=true&theme=tokyonight" height="160px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevDasPratap&theme=tokyonight" height="160px"/>
