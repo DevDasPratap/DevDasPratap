@@ -52,8 +52,14 @@ I specialize in building **scalable, high-performance backend systems**, **micro
 
 ### 📊 **GitHub Stats**
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=DevDasPratap&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150px"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevDasPratap&theme=radical&hide_border=true" height="150px"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevDasPratap&layout=compact&theme=radical&hide_border=true" height="150px"/> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DevDasPratap&show_icons=true&theme=tokyonight" height="160px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevDasPratap&theme=tokyonight" height="160px"/>
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevDasPratap&layout=compact&theme=tokyonight" height="160px"/>
+</p>
 ---
 
 ### 🌍 **Find Me Online**
