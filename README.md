@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi there, I'm <a href="https://nedcod.com/about" target="_blank">Pratap Das</a></h1>
-<h3 align="center">💻 Backend-Focused Full Stack Developer | Node.js | Microservices | Cloud & DevOps Enthusiast</h3>
+<h3 align="center">💻 Backend-Focused Full Stack Developer | Node.js | Microservices | Cloud & DevOps</h3>
 
 <p align="center">
   <img src="https://github.com/DevDasPratap/DevDasPratap/blob/main/Hi.gif" width="30px">
