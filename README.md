@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi there, I'm <a href="https://nedcod.com/about" target="_blank">Pratap Das</a></h1>
-<h3 align="center">💻 Full Stack Developer | MERN & MEAN | Node.js Enthusiast | Open Source Learner</h3>
+<h3 align="center">💻 Backend-Focused Full Stack Developer | Node.js | Microservices | Cloud & DevOps Enthusiast</h3>
 
 <p align="center">
   <img src="https://github.com/DevDasPratap/DevDasPratap/blob/main/Hi.gif" width="30px">
@@ -10,13 +10,13 @@
 
 ### 👨‍💻 **About Me**
 
-I'm **Pratap Das**, a passionate **Full Stack Developer** from 🇮🇳 India.  
-I love building **scalable web applications**, crafting **clean backend architecture**, and learning new technologies that make development smarter.
+I'm **Pratap Das**, a passionate **Full Stack Developer (Backend-Heavy)** from 🇮🇳 India.  
+I specialize in building **scalable, high-performance backend systems**, **microservice architectures**, and **DevOps automation pipelines**.
 
-- 🔭 Currently working on: **Microservices-based Cab Booking System**
-- 🌱 Learning: **System Design, Kafka, and Cloud Deployment (AWS & GCP)**
-- 💬 Ask me about: **Node.js, Angular, MongoDB, Express, JavaScript**
-- ⚡ Fun fact: *I debug in dark mode only ☕*
+- 🔭 Currently working on: **Node.js microservices for real-time ride-hailing system**
+- 🌱 Learning: **Kubernetes, CI/CD, and Advanced Distributed Systems**
+- 💬 Ask me about: **Node.js, Fastify, Express, MongoDB, Kafka, AWS, CI/CD, Kubernetes**
+- ⚡ Fun fact: *I treat backend logs like detective clues 🕵️‍♂️*
 
 ---
 
@@ -24,18 +24,24 @@ I love building **scalable web applications**, crafting **clean backend architec
 
 #### 🖥️ Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,bootstrap,tailwind,materialui" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,nextjs,bootstrap,tailwind,materialui" />
 </p>
 
 #### ⚙️ Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis,nginx" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastify,mongodb,postgres,redis,kafka,nginx" />
 </p>
 
 #### ☁️ DevOps & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,github,git,vscode,postman,linux" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,git,gitlab,github,jenkins,linux,vscode,postman" />
 </p>
+
+#### 🧩 Additional Focus Areas
+- **CI/CD Pipelines** (GitLab, GitHub Actions, Jenkins)  
+- **Microservices & API Gateway Design**  
+- **Server Management & Deployment (EC2, Nginx, PM2)**  
+- **Logging & Monitoring** (Winston, ELK, Prometheus, Grafana)  
 
 ---
 
@@ -71,17 +77,18 @@ I love building **scalable web applications**, crafting **clean backend architec
 ---
 
 ### 🧩 **Quote I Believe**
-> "Code is like humor. When you have to explain it, it’s bad."
+> “Great backends are invisible — they just work flawlessly.”
 
 ---
 
 ### 🏆 **Achievements**
 - 💎 GitHub Developer Program Member  
-- 🧩 Built Multiple Microservice Backends  
-- ☁️ Deployed Scalable Apps on AWS & GCP  
-- 🧠 Regular Contributor to Open Source
+- ⚙️ Built Scalable Microservices Architecture in Node.js  
+- ☁️ Automated Cloud Deployment with Kubernetes & CI/CD  
+- 🧠 Contributor to Open Source Projects  
+- 🚀 Passionate About Backend Scalability and Performance  
 
 ---
 
 ⭐️ *From [DevDasPratap](https://github.com/DevDasPratap)*  
-📌 *Always Learning. Always Building.*
+📌 *Backend First. Always Learning. Always Building.*
