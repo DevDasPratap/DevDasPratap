@@ -39,7 +39,7 @@ I specialize in building **scalable, high-performance backend systems**, **micro
 
 #### ☁️ DevOps & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,git,gitlab,github,jenkins,linux,ubuntu,vscode,bash,postman" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,git,gitlab,github,jenkins,linux,ubuntu,vscode,bash,prometheus,grafana,postman" />
 </p>
 
 #### 🧩 Additional Focus Areas
