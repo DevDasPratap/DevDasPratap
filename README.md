@@ -34,7 +34,7 @@ I specialize in building **scalable, high-performance backend systems**, **micro
 
 #### ⚙️ Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma,redis,kafka,grpc,rpc,graphql,nginx" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma,redis,kafka,graphql,nginx" />
 </p>
 
 #### ☁️ DevOps & Tools
