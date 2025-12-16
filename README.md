@@ -61,7 +61,7 @@ I specialize in building **scalable, high-performance backend systems**, **micro
 
 <p align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=DevDasPratap&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com?user=DevDasPratap&theme=tokyonight&hide_border=true"
     width="100%"
   />
 </p>
@@ -72,7 +72,6 @@ I specialize in building **scalable, high-performance backend systems**, **micro
     width="100%"
   />
 </p>
-
 ---
 
 ### 🌍 **Find Me Online**
