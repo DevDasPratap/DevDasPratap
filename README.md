@@ -61,14 +61,14 @@ I specialize in building **scalable, high-performance backend systems**, **micro
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=DevDasPratap&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevDasPratap&layout=compact&theme=tokyonight&hide_border=true"
     width="100%"
   />
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevDasPratap&layout=compact&theme=tokyonight&hide_border=true"
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=DevDasPratap&theme=tokyo-night"
     width="100%"
   />
 </p>
