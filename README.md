@@ -54,7 +54,7 @@ I specialize in building **scalable, high-performance backend systems**, **micro
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=DevDasPratap&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=DevDasPratap&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&cache_seconds=21600"
     width="100%"
   />
 </p>
@@ -72,6 +72,7 @@ I specialize in building **scalable, high-performance backend systems**, **micro
     width="100%"
   />
 </p>
+
 ---
 
 ### 🌍 **Find Me Online**
