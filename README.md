@@ -69,13 +69,6 @@ I specialize in building **scalable, high-performance backend systems**, **micro
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=DevDasPratap&theme=tokyo-night"
-    width="100%"
-  />
-</p>
-
 ---
 
 ### 🌍 **Find Me Online**
