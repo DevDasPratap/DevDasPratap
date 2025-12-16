@@ -14,13 +14,16 @@ I'm **Pratap Das**, a passionate **Full Stack Developer (Backend-Heavy)** from �
 I specialize in building **scalable, high-performance backend systems**, **microservice architectures**, and **DevOps automation pipelines**.
 
 - 🔭 **Currently working on:**  
-  Building **scalable distributed microservices** with **Node.js**, including:  
+  Building **scalable distributed microservices** with **Node.js** on **AWS**, including:  
   - Migrating Node.js services  
   - Integrating **Docker & Kubernetes** for containerized orchestration  
   - **AMS–CRM** and 3rd-party API integrations  
-  - Designing **fault-tolerant enterprise automation systems, high-performance enterprise systems** 
-- 🌱 **Learning:** Kubernetes, CI/CD, and Advanced Distributed Systems  
-- 💬 **Ask me about:** Node.js, Fastify, Express, MongoDB, Kafka, AWS, CI/CD, Kubernetes  
+  - Designing **distributed microservices**, **fault-tolerant enterprise automation systems**  & **high-performance enterprise systems** 
+-  Focused on **clean architecture**, **performance**, **scalability** and **observability**
+- 📦 Hands-on with **Redis, Kafka, Docker, CI/CD**, and cloud deployments
+- 🔐 Strong in **authentication**, **caching**, and **system design**
+- 🌱 **Learning & working:** with Kubernetes, CI/CD, and Advanced Distributed Systems
+- 💬 **Ask me about:** **Node.js**, **Fastify**, **Express.js**, **MongoDB**, **Kafka**, **AWS**, **CI/CD**, **Kubernetes**, **Redis**, **Linux**  
 - ⚡ **Fun fact:** *I treat backend logs like detective clues 🕵️‍♂️*
 
 ---
