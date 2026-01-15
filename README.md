@@ -57,14 +57,14 @@ I specialize in building **scalable, high-performance backend systems**, **micro
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=DevDasPratap&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&cache_seconds=21600"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=DevDasPratap&show_icons=true&theme=tokyonight&hide_border=true"
     width="100%"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevDasPratap&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DevDasPratap&layout=compact&theme=tokyonight&hide_border=true"
     width="100%"
   />
 </p>
